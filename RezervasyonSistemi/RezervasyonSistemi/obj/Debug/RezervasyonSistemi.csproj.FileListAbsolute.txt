@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\RezervasyonSistemi\RezervasyonSistemi\bin\Debug\RezervasyonSistemi.exe.config
+C:\Users\Lenovo\source\repos\RezervasyonSistemi\RezervasyonSistemi\bin\Debug\RezervasyonSistemi.exe
+C:\Users\Lenovo\source\repos\RezervasyonSistemi\RezervasyonSistemi\bin\Debug\RezervasyonSistemi.pdb
+C:\Users\Lenovo\source\repos\RezervasyonSistemi\RezervasyonSistemi\obj\Debug\RezervasyonSistemi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\RezervasyonSistemi\RezervasyonSistemi\obj\Debug\RezervasyonSistemi.Form1.resources
+C:\Users\Lenovo\source\repos\RezervasyonSistemi\RezervasyonSistemi\obj\Debug\RezervasyonSistemi.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\RezervasyonSistemi\RezervasyonSistemi\obj\Debug\RezervasyonSistemi.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\RezervasyonSistemi\RezervasyonSistemi\obj\Debug\RezervasyonSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\RezervasyonSistemi\RezervasyonSistemi\obj\Debug\RezervasyonSistemi.exe
+C:\Users\Lenovo\source\repos\RezervasyonSistemi\RezervasyonSistemi\obj\Debug\RezervasyonSistemi.pdb
